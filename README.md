@@ -12,10 +12,13 @@ Source of data: http://ergast.com/mrd/db/
 
 ## Goal of the Project
 Analysis of Formula One dataset using Apache HIVE.
+Visualization will be done in Tableau.
 (to be updated)
 
 ## Technology
-(to be updated)
+1. AMazon Web Services (EMR cluster)
+2. HIVE
+3. HiveQL
 
 ## Implementation
 (to be updated)
